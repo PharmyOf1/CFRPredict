@@ -43,3 +43,4 @@ cfrdata.csv
 verification.csv
 file.pickle
 files.pickle
+*.xlsx
