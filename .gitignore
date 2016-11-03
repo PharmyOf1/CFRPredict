@@ -35,7 +35,7 @@ Thumbs.db
 
 #Local#
 login.py
-psis/
+psis/*
 r_models.py
 creds.py
 cfr.pickle
